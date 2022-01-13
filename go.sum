@@ -1,0 +1,13 @@
+github.com/jice36/cipher_support v0.0.0-20211202200525-77e163c903e2 h1:VKs7Vgb89eI4mXP8X3JiIIIHpiX5wOet2Kz9W+AX6/M=
+github.com/jice36/cipher_support v0.0.0-20211202200525-77e163c903e2/go.mod h1:aay1VIlYpRxMx2fRcKc/JZKclUKdYvtjSRIqpUcgzro=
+github.com/jice36/magma v0.0.0-20211229172106-72e167ee6a21 h1:e32BCHGViUa0CWagbAZwajx7cgdIzQrR6Od3wuBJRs8=
+github.com/jice36/magma v0.0.0-20211229172106-72e167ee6a21/go.mod h1:3t73S1Nn0YFld4uljF5isAU35mPqG1mBWTfEHzLh8tc=
+golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3 h1:0es+/5331RGQPcXlMfP+WrnIIS6dNnNRe0WB02W0F4M=
+golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=
+golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2/go.mod h1:9nx3DQGgdP8bBQD5qxJ1jj9UTztislL4KSBs9R2vV5Y=
+golang.org/x/sys v0.0.0-20201119102817-f84b799fce68/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210423082822-04245dca01da/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1/go.mod h1:bj7SfCRtBDWHUb9snDiAeCFNEtKQo2Wmx5Cou7ajbmo=
+golang.org/x/text v0.3.6/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
